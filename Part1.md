@@ -35,3 +35,4 @@ This portion of the program is a function to print the generated data of the cus
 
 ## References
 - [1] https://fakerjs.dev/
+- [2] https://www.youtube.com/watch?v=e82w8Je0XuE
