@@ -11,3 +11,7 @@
 
 ## What would be some sample input/output?
 - Sample input/output:
+<img width="1920" alt="Screenshot 2024-04-01 at 4 14 36 PM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-sierrahowe1/assets/155486188/7e0b3846-e4d3-4747-a960-ef3287723b30">
+<img width="1920" alt="Screenshot 2024-04-01 at 4 14 44 PM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-sierrahowe1/assets/155486188/dfd136e8-5282-4501-87bf-df0b5c77899d">
+<img width="1920" alt="Screenshot 2024-04-01 at 4 18 45 PM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-sierrahowe1/assets/155486188/de430ea7-fe1d-4710-809c-62a17c4bcb78">
+<img width="1920" alt="Screenshot 2024-04-01 at 4 18 55 PM" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-sierrahowe1/assets/155486188/e8243389-12ff-4525-8cb0-1bd495bd1acb">
