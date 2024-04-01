@@ -32,3 +32,6 @@ This portion of the program is a function to print the generated data of the cus
 
 ## How was your overall experience with this package/library?
 - Overall I had a good experience with the library. I felt it was relitivly easy to pick up on and there were lot of resources out there to provide structured guidance. I would recommend this library to anyone who is looking to expand their knowledge of JavaScript at a beginners level. I would continue using this library just for in the future for testing purposes as it would be extremely helpful to generate massive amounts of testable data.
+
+## References
+- [1]
