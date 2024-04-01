@@ -4,9 +4,10 @@
 - For this exploration activity I selected the Faker library which is used to generate massive amounts of fake data such as names and addresses for development purposes. My sample program uses various different functionalities involved with Faker which begin importing Faker with the line "var faker = require("faker");.Then we can start creating variables for our fake data using the following sample code: "var randomName = faker.name.findName();". This is responsible for generating a random name and storing it as "randomName". Other than findName(), Faker includes various different built in methods to generate different fake data including, country() which generates a random country, productName() which will generate a random product name under the commerce catagory, price() which generates a random price. For these methods to work we would use their catagories to access them. To access the findName() method as seen previously, the catagory would be "name", for country() the catagory would be "address", productName() would be commerce as well as price(). Using different methods of this library and the basic functions of javascript, you can interesting data like the one shown in the sample program.
   
 ## How does someone run your program?
-- This program can be run using the command like a typical javascript program using the command "node filename.js"
+- This program first must be installed using the command 'npm install @faker-js/faker --save-dev' in the terminal[1]. You must also import the library using the import statement 'import { faker } from '@faker-js/faker';'.
+After the package is installed, the program can be ran as a normal JavaScript program, 'node filename.js'
 
-## What purpose does your program serve?
+- ## What purpose does your program serve?
 - Faker is used to generate fake/random data. Its main purpose is to be in use by developers in order for them to create sample data for testing, prototyping, or developing their system. My program is definitely for technical purposes and could be used in a testing environment.
 
 ## What would be some sample input/output?
